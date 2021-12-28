@@ -4,11 +4,12 @@ Unity web player 3D Solar System Simulation along with a mini-map. Planets rotat
 
 ### How to run
 
--   Unity web player is deprecated and is not supported in modern browsers.
+-   Warning : Unity web player is deprecated and is not supported in all modern browsers
 -   Install a browser that supports unity web player e.g., Basilisk
 -   Install unity web player in your system
+-   Clone/download this repository into your local system
 -   open Solar System Simulation > Web Player > Web Player.html in your browser
--   Allow unity web player.
+-   Allow unity web player in your browser
 
 ### Preview
 
