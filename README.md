@@ -17,6 +17,5 @@ Unity web player 3D Solar System Simulation along with a mini-map. Planets rotat
 
 ### Support Development
 
-If you've loved my work and want to support, you can 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sdnitrogen) or 
-[![Donate](https://img.shields.io/badge/Donate-Paypal-blue)](https://www.paypal.me/sdnitrogen)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sdnitrogen) <br> 
+[![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge)](https://www.paypal.me/sdnitrogen)
