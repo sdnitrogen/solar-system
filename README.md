@@ -17,5 +17,5 @@ Unity web player 3D Solar System Simulation along with a mini-map. Planets rotat
 
 ### Support Development
 
-[![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge)](https://www.paypal.me/sdnitrogen)<br> or <br><br>
+[![Donate](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge)](https://www.paypal.me/sdnitrogen) / 
 [![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffe-FBB034?style=for-the-badge&logoColor=black)](https://buymeacoff.ee/sdnitrogen)
